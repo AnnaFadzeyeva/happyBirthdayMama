@@ -1,0 +1,20 @@
+[
+    {
+        "headline": "Дорогая мамочка,",
+        "text": "Я хочу тебя поздравить с юбилеем!",
+        "imgSrc": "https://media.licdn.com/dms/image/C4E03AQH3e7FrNe0xrQ/profile-displayphoto-shrink_800_800/0/1639145107830?e=1720656000&v=beta&t=h1dFPkbZbf1icvEs2PN51qi72y-BwjQc9fxg5UYB6Kg",
+        "altText": "АФ",
+        "name": "Анна Фадеева",
+        "position": "Дочь",
+        "location": "Берлин, Германия"
+    },
+    {
+        "headline": "Дорогая тёща,",
+        "text": "Я хочу вас поздравить с юбилеем!",
+        "imgSrc": "https://media.licdn.com/dms/image/C4D03AQE4c2prYSuzLw/profile-displayphoto-shrink_800_800/0/1641424107779?e=1720656000&v=beta&t=Xy2dQr8S-9K_TAHRVxdnWTGA0T7zX-cRM2z-JoJJdMU",
+        "altText": "ГЧ",
+        "name": "Георгий Чантуриа",
+        "position": "Зять",
+        "location": "Берлин, Германия"
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "offerGeo2go": {
+      "images": [
+        {
+          "xlink_href": "$lib/images/icons_interface/linear/eye.svg",
+          "width": 100,
+          "height": 100
+        }
+      ],
+      "title": "Angebots-Titel"
+    },
+    "text": "Hier ist der Text"
+  }
+  

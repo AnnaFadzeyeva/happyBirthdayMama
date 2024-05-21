@@ -1,0 +1,46 @@
+{
+    "categories": [
+      {
+        "id": "01",
+        "name": "Produkte",
+        "items": [
+          {
+            "image": "/images/img_menu/geodaten.png",
+            "alt": "Geodaten Symbolbild",
+            "title": "Geodaten",
+            "links": [
+              {"name": "ALKIS", "url": "/alkis"},
+              {"name": "Rasterkarten", "url": "/rasterkarten"},
+              {"name": "Vektordaten", "url": "/vektordaten"}
+            ]
+          },
+          {
+            "image": "/images/img_menu/wetterdaten.png",
+            "alt": "Wetterdaten Symbolbild",
+            "title": "Wetterdaten",
+            "links": [
+              {"name": "COSMO-REA6", "url": "/cosmo-rea6"},
+              {"name": "Wettervorhersagen", "url": "/wettervorhersagen"}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "02",
+        "name": "Dienstleistungen",
+        "items": [
+          {
+            "image": "/images/img_menu/dienstleistungen.png",
+            "alt": "Dienstleistungen Symbolbild",
+            "title": "Dienstleistungen",
+            "links": [
+              {"name": "Dienstleistung 1", "url": "/dienstleistung1"},
+              {"name": "Dienstleistung 2", "url": "/dienstleistung2"},
+              {"name": "Dienstleistung 3", "url": "/dienstleistung3"}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
